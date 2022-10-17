@@ -1,8 +1,8 @@
-[map "9044261b-4259-38cd-9771-1b8fa2c0b2a9"]
+[map "1f9bc839-73bd-3ec6-95f1-5b6e6f4a1b73"]
 	object = 85756fbfae01ec5344a94ea7b25403bac5f8b66d
-	subtree = core/front/static
+	subtree = core/back
 	type = expand tree
-[map "3eb9edfe-3285-302d-9fc1-66cfecc02d19"]
+[map "22ded778-27e9-3c8d-8557-c00e9dc84ec0"]
 	object = 0df3f8d12f7fd95271545109da46efad9dda9a52
-	path = front/static
+	path = back/core
 	type = expand module
