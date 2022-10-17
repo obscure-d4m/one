@@ -1,2 +1,0 @@
-<?php
-//back_core
