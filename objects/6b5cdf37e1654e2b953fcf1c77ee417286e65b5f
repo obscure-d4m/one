@@ -2,3 +2,7 @@
 	object = 37ee1bec0f6c2c74f8f896fdb4d3822258a7adb6
 	subtree = core/back
 	type = extract tree
+[map "368906fa-d168-328f-b1f0-a0e5e9500f6b"]
+	object = 5c3ed189ec70b9f84801d8b12b1068b1f0098991
+	subtree = core/front/static
+	type = extract tree
