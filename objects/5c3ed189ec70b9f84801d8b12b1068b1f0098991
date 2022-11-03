@@ -2,7 +2,7 @@
 	object = 85756fbfae01ec5344a94ea7b25403bac5f8b66d
 	subtree = core/front/static
 	type = expand tree
-[map "3eb9edfe-3285-302d-9fc1-66cfecc02d19"]
-	object = 0df3f8d12f7fd95271545109da46efad9dda9a52
+[map "438140e9-61e9-3c6b-82f2-9bd578e53c7b"]
+	object = c77001097cd298f18d3337803457541760bef1a8
 	path = front/static
 	type = expand module

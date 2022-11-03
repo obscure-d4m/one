@@ -1,0 +1,8 @@
+[map "03511232-acf2-3156-9ae1-7b1f6afbb4e5"]
+	object = c77001097cd298f18d3337803457541760bef1a8
+	path = back/core
+	type = expand module
+[map "163f73bb-49fb-3a30-8945-1e0c7a7ad35b"]
+	object = 439c6d7310c2499c0048469451b909d41c0e9a69
+	subtree = core/back
+	type = expand tree
